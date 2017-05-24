@@ -63,7 +63,7 @@ O <b>Apache Cassandra</b> está sendo usado por algumas das maiores empresas, ta
 
 * <p align="justify">Este banco de dados também suporta <b>replicação</b>, oferecendo flexibilidade de distribuir dados onde precisa. O <b>Apache Cassandra</b> é  idealizado como um sistema distribuído para permitir a implantação de um grande número de nós em diversos <i>data centers</i> , sendo que as características de sua arquitetura são adaptadas para a implantação de múltiplos <i>data centers</i>, para a redundância e para a prevenção e recuperação contra possíveis desastres. Também é permitido escolher entre usar replicação síncrona ou assíncrona.</p>
 
-<center><img src="http://www.w3ii.com/cassandra/data_replication.jpg"/></center>
+<center><img src="https://image.slidesharecdn.com/lfall3m8tjegl2fvyjqa-signature-5b349d6de9d435438f00a0058c76d5e3ccbb13a2037ceb054bad5694f1325bea-poli-141020133450-conversion-gate02/95/cassandra-o-bsico-11-638.jpg?cb=1413812244"/></center>
 
 * <p align="justify">A <b>escalabilidade elástica</b> do <b>Cassandra</b> pode ser vista através do tempo de processamento de leitura e escrita, que aumenta sua taxa de transferência de forma linear de acordo com o acréscimo de hardware para acomodação de novos clientes e mais dados, sem que haja tempo de inatividade nem a interrupção de aplicativos, mantendo o tempo de resposta rápido.</p>
 
